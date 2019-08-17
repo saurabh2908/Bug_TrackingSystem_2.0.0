@@ -8,3 +8,4 @@
 4. cd server
 5. npm install
 6. nodemon app.js
+7. open index.html and run live server
