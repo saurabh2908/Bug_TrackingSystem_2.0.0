@@ -6,4 +6,5 @@
 2. bower install
 3. cd ..
 4. cd server
-5. nodemon app.js
+5. npm install
+6. nodemon app.js
