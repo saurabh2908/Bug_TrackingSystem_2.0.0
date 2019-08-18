@@ -33,7 +33,10 @@ What things you need to install the software
 ![ScreenShot](/image/server.png)
 ```diff
 - Now in client/index.html run the live server
+
++ Demo
 ```
+![](https://s4.ezgif.com/save/ezgif-4-fb88f20c039e.gif)
 
 ## Running the tests
 
