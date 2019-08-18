@@ -144,7 +144,7 @@ function CreateRightSchema(doc,response){
 
                 }else{
                     console.log("userRight succesfully Created ....");
-                    response.json({status:'S',report: definedObj.AdminRight});
+                    
 
                 }
             })
