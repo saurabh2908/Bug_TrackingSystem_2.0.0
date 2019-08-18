@@ -40,7 +40,8 @@ What things you need to install the software
 - Now in client/index.html run the live server
 
 ```
-![](https://s4.ezgif.com/save/ezgif-4-fb88f20c039e.gif)
+
+
 
 ## Running the tests
 
