@@ -2,13 +2,15 @@
 
 ## How To Use 
 
-1. cd client
-2. bower install
-3. cd ..
-4. cd server
-5. npm install
-6. nodemon app.js
-7. open index.html and run live server
+ 1. cd client
+ 2. bower install
+ 3. cd ..
+ 4. cd server
+ 5. npm install
+ 6. nodemon app.js
+ 7. open index.html and run live server
+ 8. Usertype =>admin, Username=> saurabh, Password=> 2908
+
 
 
 <a href="https://imgflip.com/gif/388yhr"><img src="https://i.imgflip.com/388yhr.gif" title="made at imgflip.com"/></a>
