@@ -18,7 +18,7 @@ app.use('/',DevRoute);
 
 app.listen(process.env.PORT || 1234,(err)=>{
     if(err){
-        console.log("Error in server Staring ❌",err);
+        console.log("Error in server Staring ",err);
     }else{
         console.log("Server Started at",1234);
     }
