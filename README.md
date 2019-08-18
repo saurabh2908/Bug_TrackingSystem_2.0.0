@@ -30,6 +30,8 @@ What things you need to install the software
 ```diff
 + in server folder run npm start
 
+![ScreenShot](image/server.png)
+
 - Now in client/index.html run the live server
 ```
 
