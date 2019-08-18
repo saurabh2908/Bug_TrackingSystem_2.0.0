@@ -3,7 +3,7 @@ const mongoURl = require('../utils/env');
 mongoose.connect(mongoURl.mongo);
 
 mongoose.connection.on('open',()=>{
-   console.log('connected to Database :-)');
+   console.log('connected to Database ');
 })
 
 module.exports = mongoose;
